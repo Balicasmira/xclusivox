@@ -290,39 +290,7 @@
         "9b432ecd-a8c7-4fa6-8610-7e0393230b4a": {
           "type": "image",
           "settings": {
-            "overlay_opacity": 0,
-            "color_palette": "black",
-            "text_position": "text-center",
-            "title": "Image banner",
-            "title_font": "primary",
-            "title_size": "h1",
-            "enable_custom_text_styling": true,
-            "title_color_palette": "white",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "",
-            "link_url": "",
-            "button_color_palette": "accent",
-            "show_link": false,
-            "show_look": true,
-            "product_list": [],
-            "look_btn_color_palette": "dark",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": "Shop the look"
-          }
-        },
-        "630a4ba9-b9a5-4027-a8d1-d26d04ae4bfb": {
-          "type": "image",
-          "settings": {
+            "image": "shopify://shop_images/Aurate-996_2x3_1180520c-0d2e-4892-9347-17ca95e99975.jpg",
             "overlay_opacity": 0,
             "color_palette": "black",
             "text_position": "text-center",
@@ -356,10 +324,11 @@
         "e7a02553-e21b-458b-aac1-d8a698d733f8": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/AurateQ2-23.jpg",
             "overlay_opacity": 0,
             "color_palette": "black",
             "text_position": "text-center",
-            "title": "Image banner",
+            "title": "",
             "title_font": "primary",
             "title_size": "h1",
             "enable_custom_text_styling": true,
@@ -389,7 +358,6 @@
       },
       "block_order": [
         "9b432ecd-a8c7-4fa6-8610-7e0393230b4a",
-        "630a4ba9-b9a5-4027-a8d1-d26d04ae4bfb",
         "e7a02553-e21b-458b-aac1-d8a698d733f8"
       ],
       "settings": {
