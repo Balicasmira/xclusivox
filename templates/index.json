@@ -1228,16 +1228,16 @@
         "usp_mGHLeX": {
           "type": "usp",
           "settings": {
-            "usp": "Tell a unique detail about this video",
-            "font": "secondary",
+            "usp": "SI Clarity Only.",
+            "font": "primary",
             "font_size": "16px"
           }
         },
         "usp_gRHa9R": {
           "type": "usp",
           "settings": {
-            "usp": "Tell a unique detail about this video",
-            "font": "secondary",
+            "usp": "Checked by Hand.",
+            "font": "primary",
             "font_size": "16px"
           }
         },
