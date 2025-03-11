@@ -187,6 +187,7 @@
         "9b432ecd-a8c7-4fa6-8610-7e0393230b4a": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/STONE-AND-STRAND-PAVE-JEWELRY-COLLECTION.jpg",
             "overlay_opacity": 0,
             "color_palette": "black",
             "text_position": "text-center",
