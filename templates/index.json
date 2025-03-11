@@ -11,6 +11,7 @@
   "sections": {
     "86d43546-c3ee-4763-8d9e-efbf3b62d046": {
       "type": "section-spacer",
+      "disabled": true,
       "settings": {
         "height": -10,
         "height_mobile": -10
@@ -54,10 +55,47 @@
             "second_button_styling": "fill",
             "second_show_link": false
           }
+        },
+        "slide_xe8VFp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/STONE-AND-STRAND-RINGS-AND-BRACELETS_9c4c4a5c-672e-4a18-b2e3-3022e4dd3e1b.jpg",
+            "layout": "background",
+            "image_width": 60,
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "text_position": "text-center",
+            "title": "",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "first_link_text": "",
+            "first_link_url": "/",
+            "first_button_color_palette": "accent",
+            "first_button_styling": "fill",
+            "first_show_link": false,
+            "second_link_text": "",
+            "second_link_url": "/",
+            "second_button_color_palette": "accent",
+            "second_button_styling": "fill",
+            "second_show_link": false
+          }
         }
       },
       "block_order": [
-        "template--19512397103416__bab7c0b3-407d-4ba6-885e-097aa67a5d53-slide-1"
+        "template--19512397103416__bab7c0b3-407d-4ba6-885e-097aa67a5d53-slide-1",
+        "slide_xe8VFp"
       ],
       "settings": {
         "width": "wide",
@@ -70,6 +108,71 @@
         "height_mobile": "m",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "c4a12502-c8bd-4bc2-84b3-0ef24119548b": {
+      "type": "section-rich-text",
+      "blocks": {
+        "3954e04c-07d4-458b-aa70-0e5f769576e9": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<h6>Tell something about your brand</h6>",
+            "font": "primary",
+            "font_weight": "400",
+            "font_size": "18px"
+          }
+        },
+        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-0": {
+          "type": "title",
+          "settings": {
+            "title": "Tell something about your brand",
+            "title_font": "primary",
+            "title_size": "h1",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "9cc47a5b-745d-487b-90be-1de74962cd24": {
+          "type": "content",
+          "settings": {
+            "page": "",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "18px"
+          }
+        },
+        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-2": {
+          "type": "button",
+          "settings": {
+            "link_text": "Button",
+            "link_url": "/",
+            "button_color_palette": "black",
+            "button_style": "fill"
+          }
+        }
+      },
+      "block_order": [
+        "3954e04c-07d4-458b-aa70-0e5f769576e9",
+        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-0",
+        "9cc47a5b-745d-487b-90be-1de74962cd24",
+        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-2"
+      ],
+      "settings": {
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "text-center",
+        "content_width": 1280,
+        "height": "xs",
+        "enable_custom_height": false,
+        "custom_height": 730,
+        "width": "wide",
+        "height_mobile": "m",
+        "spacing_desktop": -30,
+        "spacing_mobile": -10,
         "fix_zindex": 0
       }
     },
@@ -187,7 +290,6 @@
         "9b432ecd-a8c7-4fa6-8610-7e0393230b4a": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/STONE-AND-STRAND-PAVE-JEWELRY-COLLECTION.jpg",
             "overlay_opacity": 0,
             "color_palette": "black",
             "text_position": "text-center",
@@ -310,46 +412,11 @@
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e": {
       "type": "section-featured-products",
       "settings": {
-        "products": [
-          "bow-nouveau-gala-earrings",
-          "bow-nouveau-diamond-tag-necklace",
-          "bow-nouveau-id-bracelet",
-          "bow-nouveau-diamond-necklace",
-          "corona-necklace",
-          "classic-pave-huggies",
-          "classic-diamond-half-eternity-band",
-          "deirdre-charm",
-          "dean-hoop-charm",
-          "diamond-cursive-initial-necklace",
-          "diamond-cursive-initial-stud",
-          "diamond-fern-band",
-          "diamond-hamsa-charm",
-          "diamond-horsebit-earrings",
-          "diamond-harness-ring",
-          "diamond-hardware-necklace",
-          "diamond-name-drop-necklace",
-          "diamond-magnolia-ring",
-          "diamond-magnolia-necklace",
-          "diamond-horsebit-necklace",
-          "diamond-petal-bracelet",
-          "diamonds-by-the-dozen-gradient-drop-earrings",
-          "gold-bridle-ring",
-          "gold-circle-charm-connector",
-          "gloria-earrings",
-          "flower-crown-diamond-ring",
-          "golden-nail-ring",
-          "golden-nail-cuff",
-          "gothic-pave-initial-necklace",
-          "gothic-pave-initial-stud",
-          "grand-magnolia-drop-earrings",
-          "grand-magnolia-studs",
-          "green-with-envy-merge-ring",
-          "hold-my-heart-signet-ring"
-        ],
+        "products": [],
         "layout": "slider",
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Our Favorites !",
+        "title": "Featured products",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -1070,11 +1137,154 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_collage_caKUjg": {
+      "type": "section-collage",
+      "blocks": {
+        "image_zPj3M8": {
+          "type": "image",
+          "settings": {
+            "overlay_opacity": 0,
+            "color_palette": "white",
+            "text_position": "text-center",
+            "title": "Image banner",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700",
+            "subtitle": "",
+            "subtitle_font": "secondary",
+            "subtitle_size": "h2",
+            "enable_custom_subtext_styling": false,
+            "subtitle_color_palette": "black",
+            "subtitle_weight": "400",
+            "text": "<p>Give customers details about the banner image(s)</p>",
+            "enable_custom_font_styling": false,
+            "font_size": "16px",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false,
+            "show_look": false,
+            "product_list": [],
+            "look_btn_color_palette": "buy_button",
+            "look_position": "end",
+            "show_look_label": false,
+            "look_label_text": "Label"
+          }
+        }
+      },
+      "block_order": [
+        "image_zPj3M8"
+      ],
+      "settings": {
+        "mirrored": false,
+        "width": "boxed",
+        "height": "size-l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "space_between": 16,
+        "image_zoom": true,
+        "image_move": false,
+        "layout_mobile": "rows",
+        "mobile_height": "size-s",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "section_custom_html_qkeQdq": {
+      "type": "section-custom-html",
+      "settings": {
+        "custom_html": "<section class=\"solid-gold-jewelry\">\n  <div class=\"container\">\n    <h1>Solid Gold Jewelry</h1>\n    \n    <div class=\"ethical-sourcing\">\n      <h2>Ethical Sourcing</h2>\n      <div class=\"sustainability-run\">\n        <ul>\n          <li>Fairly Priced</li>\n          <li>For Women By Women</li>\n          <li>Designed in NYC</li>\n        </ul>\n      </div>\n    </div>\n  </div>\n</section>\n\n<style>\n  .solid-gold-jewelry {\n    text-align: center;\n    padding: 50px 20px;\n    background-color: #f9f9f9;\n    color: #333;\n    font-family: Arial, sans-serif;\n  }\n\n  .solid-gold-jewelry h1 {\n    font-size: 2.5em;\n    margin-bottom: 20px;\n    color: #d4af37; /* Gold color */\n  }\n\n  .ethical-sourcing h2 {\n    font-size: 2em;\n    margin-bottom: 15px;\n    color: #333;\n  }\n\n  .sustainability-run ul {\n    list-style-type: none;\n    padding: 0;\n  }\n\n  .sustainability-run ul li {\n    font-size: 1.2em;\n    margin: 10px 0;\n    color: #555;\n  }\n\n  .container {\n    max-width: 1200px;\n    margin: 0 auto;\n  }\n</style>",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "section_video_banner_QgYwxd": {
+      "type": "section-video-banner",
+      "blocks": {
+        "title_RR7kxK": {
+          "type": "title",
+          "settings": {
+            "title": "Highest Quality !",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "usp_ApQYQU": {
+          "type": "usp",
+          "settings": {
+            "usp": "Precious Metals Only.",
+            "font": "primary",
+            "font_size": "16px"
+          }
+        },
+        "usp_mGHLeX": {
+          "type": "usp",
+          "settings": {
+            "usp": "Tell a unique detail about this video",
+            "font": "secondary",
+            "font_size": "16px"
+          }
+        },
+        "usp_gRHa9R": {
+          "type": "usp",
+          "settings": {
+            "usp": "Tell a unique detail about this video",
+            "font": "secondary",
+            "font_size": "16px"
+          }
+        },
+        "buttons_DczTGE": {
+          "type": "buttons",
+          "settings": {
+            "link_text_1": "Button",
+            "link_url_1": "/",
+            "button_color_palette_1": "accent",
+            "button_style_1": "fill",
+            "show_link_1": false,
+            "link_text_2": "",
+            "link_url_2": "",
+            "button_color_palette_2": "light",
+            "button_style_2": "fill",
+            "show_link_2": false
+          }
+        }
+      },
+      "block_order": [
+        "title_RR7kxK",
+        "usp_ApQYQU",
+        "usp_mGHLeX",
+        "usp_gRHa9R",
+        "buttons_DczTGE"
+      ],
+      "settings": {
+        "overlay_opacity": 100,
+        "color_palette": "white",
+        "layout": "image-left",
+        "width": "wide",
+        "height": "xl",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "video_alt_text": "",
+        "video": "shopify://files/videos/40101eb7d4af4a8596508e636d538fd3.mp4",
+        "spacing_desktop": 260,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53",
+    "c4a12502-c8bd-4bc2-84b3-0ef24119548b",
     "2e0fe7a4-7414-4133-a580-09494c441b97",
     "31c22d2e-0688-4408-9b67-0113da271a8f",
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e",
@@ -1085,6 +1295,9 @@
     "c7bfba89-dc8f-4716-aa89-66c500455342",
     "494041aa-66c0-450a-acb0-f3bc90d6b837",
     "dca4067f-cc37-4e13-b5fa-6bcec984f3c2",
-    "b0948af1-0fb9-4b44-9183-42c54e10a3ae"
+    "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
+    "section_collage_caKUjg",
+    "section_custom_html_qkeQdq",
+    "section_video_banner_QgYwxd"
   ]
 }
