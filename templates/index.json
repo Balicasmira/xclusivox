@@ -1144,10 +1144,11 @@
         "image_zPj3M8": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/For_Wins_Big_And_Small_1920x_3eb78aee-74f7-46bb-ab91-6b752db60d3c.webp",
             "overlay_opacity": 0,
             "color_palette": "white",
             "text_position": "text-center",
-            "title": "Image banner",
+            "title": "Amazing, beautifuldainty little things !",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -1159,7 +1160,7 @@
             "enable_custom_subtext_styling": false,
             "subtitle_color_palette": "black",
             "subtitle_weight": "400",
-            "text": "<p>Give customers details about the banner image(s)</p>",
+            "text": "",
             "enable_custom_font_styling": false,
             "font_size": "16px",
             "link_text": "Button",
