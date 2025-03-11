@@ -23,7 +23,7 @@
         "template--19512397103416__bab7c0b3-407d-4ba6-885e-097aa67a5d53-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/home-hero-01_2000x_e9b0ece2-35a2-44d9-924c-b0ee7b537479.webp",
+            "image": "shopify://shop_images/1I3A3333_1_9bde4657-c4db-4da6-a8af-1768cc1fcf88.jpg",
             "layout": "background",
             "image_width": 60,
             "overlay_opacity": 0,
@@ -58,6 +58,7 @@
         },
         "slide_xe8VFp": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/STONE-AND-STRAND-RINGS-AND-BRACELETS_9c4c4a5c-672e-4a18-b2e3-3022e4dd3e1b.jpg",
             "layout": "background",
@@ -201,38 +202,6 @@
         "mobile_height": "size-m",
         "spacing_desktop": 50,
         "spacing_mobile": 20,
-        "fix_zindex": 0
-      }
-    },
-    "dca4067f-cc37-4e13-b5fa-6bcec984f3c2": {
-      "type": "section-featured-products",
-      "settings": {
-        "products": [],
-        "layout": "slider",
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Featured products",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "View all",
-        "link_url": "",
-        "button_color_palette": "black",
-        "show_link": false,
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
         "fix_zindex": 0
       }
     },
@@ -415,8 +384,49 @@
         "custom_height": 300,
         "text_position": "text-start",
         "video_alt_text": "",
-        "video": "shopify://files/videos/40101eb7d4af4a8596508e636d538fd3.mp4",
+        "video": "shopify://files/videos/Snapinst.app_video_AQNQUrHhCO4uU9zio8UbrE_WeXgXL1GttS24jJMd5LuUSn6vqxwZWjN9FewEJF9eeHVgb0YGhAgv0IEpYVFcQq4BN0S2G49X1fW7IiE.mp4",
         "spacing_desktop": 260,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "section_collection_list_GLLzim": {
+      "type": "section-collection-list",
+      "settings": {
+        "collections": [
+          "earrings",
+          "charms",
+          "necklaces",
+          "bracelets",
+          "rings"
+        ],
+        "custom_image_ratio": 100,
+        "show_in_circle": true,
+        "fill_images": false,
+        "layout": "slider",
+        "number_of_items": 5,
+        "text_alignment": "center",
+        "title": "<strong>Shop by Category !</strong>",
+        "title_font": "primary",
+        "title_size": "h3",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "",
+        "link_url": "shopify://collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "collection_title_position": "center",
+        "show_collection_titles": true,
+        "collection_title_size": "p",
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
@@ -426,10 +436,10 @@
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53",
     "31c22d2e-0688-4408-9b67-0113da271a8f",
-    "dca4067f-cc37-4e13-b5fa-6bcec984f3c2",
     "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
     "section_collage_caKUjg",
     "section_custom_html_qkeQdq",
-    "section_video_banner_QgYwxd"
+    "section_video_banner_QgYwxd",
+    "section_collection_list_GLLzim"
   ]
 }
