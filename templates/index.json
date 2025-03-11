@@ -16,71 +16,6 @@
         "height_mobile": -10
       }
     },
-    "c4a12502-c8bd-4bc2-84b3-0ef24119548b": {
-      "type": "section-rich-text",
-      "blocks": {
-        "3954e04c-07d4-458b-aa70-0e5f769576e9": {
-          "type": "content",
-          "settings": {
-            "page": "",
-            "text": "<h6>Tell something about your brand</h6>",
-            "font": "primary",
-            "font_weight": "400",
-            "font_size": "18px"
-          }
-        },
-        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-0": {
-          "type": "title",
-          "settings": {
-            "title": "Tell something about your brand",
-            "title_font": "primary",
-            "title_size": "h1",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "9cc47a5b-745d-487b-90be-1de74962cd24": {
-          "type": "content",
-          "settings": {
-            "page": "",
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
-            "font": "secondary",
-            "font_weight": "400",
-            "font_size": "18px"
-          }
-        },
-        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-2": {
-          "type": "button",
-          "settings": {
-            "link_text": "Button",
-            "link_url": "/",
-            "button_color_palette": "black",
-            "button_style": "fill"
-          }
-        }
-      },
-      "block_order": [
-        "3954e04c-07d4-458b-aa70-0e5f769576e9",
-        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-0",
-        "9cc47a5b-745d-487b-90be-1de74962cd24",
-        "template--19130468598072__c4a12502-c8bd-4bc2-84b3-0ef24119548b-168433241770cf9b99-2"
-      ],
-      "settings": {
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "text_position": "text-center",
-        "content_width": 1280,
-        "height": "xs",
-        "enable_custom_height": false,
-        "custom_height": 730,
-        "width": "wide",
-        "height_mobile": "m",
-        "spacing_desktop": -30,
-        "spacing_mobile": -10,
-        "fix_zindex": 0
-      }
-    },
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53": {
       "type": "section-slideshow",
       "blocks": {
@@ -374,11 +309,46 @@
     "a15be9bf-f7a0-42b0-821b-ea897949fe0e": {
       "type": "section-featured-products",
       "settings": {
-        "products": [],
+        "products": [
+          "bow-nouveau-gala-earrings",
+          "bow-nouveau-diamond-tag-necklace",
+          "bow-nouveau-id-bracelet",
+          "bow-nouveau-diamond-necklace",
+          "corona-necklace",
+          "classic-pave-huggies",
+          "classic-diamond-half-eternity-band",
+          "deirdre-charm",
+          "dean-hoop-charm",
+          "diamond-cursive-initial-necklace",
+          "diamond-cursive-initial-stud",
+          "diamond-fern-band",
+          "diamond-hamsa-charm",
+          "diamond-horsebit-earrings",
+          "diamond-harness-ring",
+          "diamond-hardware-necklace",
+          "diamond-name-drop-necklace",
+          "diamond-magnolia-ring",
+          "diamond-magnolia-necklace",
+          "diamond-horsebit-necklace",
+          "diamond-petal-bracelet",
+          "diamonds-by-the-dozen-gradient-drop-earrings",
+          "gold-bridle-ring",
+          "gold-circle-charm-connector",
+          "gloria-earrings",
+          "flower-crown-diamond-ring",
+          "golden-nail-ring",
+          "golden-nail-cuff",
+          "gothic-pave-initial-necklace",
+          "gothic-pave-initial-stud",
+          "grand-magnolia-drop-earrings",
+          "grand-magnolia-studs",
+          "green-with-envy-merge-ring",
+          "hold-my-heart-signet-ring"
+        ],
         "layout": "slider",
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Featured products",
+        "title": "Our Favorites !",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
@@ -1103,7 +1073,6 @@
   },
   "order": [
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
-    "c4a12502-c8bd-4bc2-84b3-0ef24119548b",
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53",
     "2e0fe7a4-7414-4133-a580-09494c441b97",
     "31c22d2e-0688-4408-9b67-0113da271a8f",
