@@ -89,7 +89,7 @@
           "settings": {
             "image": "shopify://shop_images/home-hero-01_2000x_e9b0ece2-35a2-44d9-924c-b0ee7b537479.webp",
             "layout": "background",
-            "image_width": 50,
+            "image_width": 60,
             "overlay_opacity": 0,
             "color_palette": "light_gradient",
             "text_position": "text-center",
