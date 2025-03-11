@@ -294,7 +294,7 @@
             "overlay_opacity": 0,
             "color_palette": "black",
             "text_position": "text-center",
-            "title": "Image banner",
+            "title": "",
             "title_font": "primary",
             "title_size": "h1",
             "enable_custom_text_styling": true,
@@ -318,7 +318,7 @@
             "look_btn_color_palette": "dark",
             "look_position": "end",
             "show_look_label": true,
-            "look_label_text": "Shop the look"
+            "look_label_text": ""
           }
         },
         "e7a02553-e21b-458b-aac1-d8a698d733f8": {
