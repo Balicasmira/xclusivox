@@ -290,7 +290,7 @@
         "title_weight": "800",
         "subtitle": "",
         "subtitle_font": "secondary",
-        "subtitle_size": "h2",
+        "subtitle_size": "h1",
         "enable_custom_subtext_styling": false,
         "subtitle_color_palette": "black",
         "subtitle_weight": "400",
