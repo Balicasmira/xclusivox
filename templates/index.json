@@ -322,33 +322,23 @@
             "font_weight": "600",
             "font_size": "16px"
           }
-        },
-        "button_dq8zCH": {
-          "type": "button",
-          "settings": {
-            "link_text": "Button",
-            "link_url": "/",
-            "button_color_palette": "accent",
-            "button_style": "fill"
-          }
         }
       },
       "block_order": [
         "title_fMK3Pa",
-        "content_tXEahe",
-        "button_dq8zCH"
+        "content_tXEahe"
       ],
       "settings": {
-        "color_palette": "white",
+        "color_palette": "light_gradient",
         "overlay_opacity": 100,
-        "text_position": "text-start",
-        "content_width": 1280,
+        "text_position": "text-center",
+        "content_width": 1220,
         "height": "xs",
         "enable_custom_height": false,
-        "custom_height": 300,
+        "custom_height": 350,
         "width": "wide",
         "height_mobile": "xs",
-        "spacing_desktop": 50,
+        "spacing_desktop": -100,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
