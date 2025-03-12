@@ -73,7 +73,7 @@
             "enable_selling_plans": true,
             "size_name": "Size",
             "sizechart_alignment": "center",
-            "sizechart_title_size": "h3",
+            "sizechart_title_size": "h2",
             "sizechart_title": "Size chart",
             "sizechart_text": "",
             "sizechart_page": "",
