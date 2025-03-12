@@ -300,10 +300,10 @@
         "text_KJAd8d": {
           "type": "text",
           "settings": {
-            "faq_question": "Collapsible row",
+            "faq_question": "How can I have my pet's real fur added into the portrait?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Row content</p>",
+            "faq_answer": "<p>Upon request, we can incorporate your pet’s real fur, ash, whiskers, or teeth into the portrait. After placing your order, we’ll provide you with a mailing address for sending them.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
