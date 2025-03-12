@@ -55,48 +55,10 @@
             "second_button_styling": "fill",
             "second_show_link": false
           }
-        },
-        "slide_xe8VFp": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/STONE-AND-STRAND-RINGS-AND-BRACELETS_9c4c4a5c-672e-4a18-b2e3-3022e4dd3e1b.jpg",
-            "layout": "background",
-            "image_width": 60,
-            "overlay_opacity": 0,
-            "color_palette": "light_gradient",
-            "text_position": "text-center",
-            "title": "",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "first_link_text": "",
-            "first_link_url": "/",
-            "first_button_color_palette": "accent",
-            "first_button_styling": "fill",
-            "first_show_link": false,
-            "second_link_text": "",
-            "second_link_url": "/",
-            "second_button_color_palette": "accent",
-            "second_button_styling": "fill",
-            "second_show_link": false
-          }
         }
       },
       "block_order": [
-        "template--19512397103416__bab7c0b3-407d-4ba6-885e-097aa67a5d53-slide-1",
-        "slide_xe8VFp"
+        "template--19512397103416__bab7c0b3-407d-4ba6-885e-097aa67a5d53-slide-1"
       ],
       "settings": {
         "width": "wide",
@@ -107,43 +69,6 @@
         "autoplay_seconds": 3,
         "enable_controls": false,
         "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "31c22d2e-0688-4408-9b67-0113da271a8f": {
-      "type": "section-banner-columns",
-      "settings": {
-        "items_width": 3,
-        "width": "boxed",
-        "height": "size-l",
-        "enable_custom_height": true,
-        "custom_height": 620,
-        "space_between": 0,
-        "image_zoom": false,
-        "image_move": false,
-        "show_content_below": false,
-        "layout_mobile": "compact",
-        "mobile_height": "size-m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 20,
-        "fix_zindex": 0
-      }
-    },
-    "section_collage_caKUjg": {
-      "type": "section-collage",
-      "settings": {
-        "mirrored": false,
-        "width": "boxed",
-        "height": "size-l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "space_between": 16,
-        "image_zoom": true,
-        "image_move": false,
-        "layout_mobile": "rows",
-        "mobile_height": "size-s",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -449,18 +374,54 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_featured_products_tjHdjV": {
+      "type": "section-featured-products",
+      "settings": {
+        "products": [
+          "framed-pet-portrait-dog",
+          "full-body-figurine",
+          "mini-full-body-figurine-7-10-cm",
+          "wool-painted-pet-portrait-head-with-body"
+        ],
+        "layout": "slider",
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "<strong>Your Pet’s Legacy Deserves a Spot in Our Calendar.</strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53",
-    "31c22d2e-0688-4408-9b67-0113da271a8f",
-    "section_collage_caKUjg",
     "section_video_banner_QgYwxd",
     "section_rich_text_jmtkqh",
     "section_image_with_text_gqQQ9U",
     "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
     "section_newsletter_Mdqftg",
-    "section_image_hotspots_XViFbp"
+    "section_image_hotspots_XViFbp",
+    "section_featured_products_tjHdjV"
   ]
 }
