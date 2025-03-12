@@ -272,10 +272,10 @@
         "text_Q8BTEW": {
           "type": "text",
           "settings": {
-            "faq_question": "How are woolever friend made",
+            "faq_question": "How long will it take to get my orders?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Each Woolever Friend is custom-made exclusively for your pet using the needle felting technique with 100% natural, soft wool. Needle felting involves compressing wool fibers together by hand to create specific textures and shapes. The nose and mouth of each Woolever Friend are also handmade. Full-body Woolever Friends include a wireframe to support the stability and mobility of the paws and tail.</p>",
+            "faq_answer": "<p><strong>Each Woolever Friend is handmade with care and attention. Thanks to our dedicated team of 5 artisans, we intentionally limit our orders to 15 per week to ensure the highest quality and meet our deadlines. Currently, the estimated processing time is 3 to 6 days, with an additional shipping time of 2 to 4 days depending on your location. We thank you for your understanding and support</strong></p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -290,6 +290,20 @@
             "icon": "none",
             "header_image_width": 25,
             "faq_answer": "<p>Throughout the production process, we’ll send you pictures and videos for review. If you have any concerns, we’ll discuss and make modifications to ensure your Woolever Friend closely resembles your pet. We pay attention to detail and strive to capture your pet’s unique qualities.<br/>Please note that while we do our best to accurately depict your pet’s likeness, slight variations in color may occur due to differences in electronic device displays. Additionally, the texture of wool material and limitations of the needle felting technique may prevent a 100% exact match.</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "text_zd9fta": {
+          "type": "text",
+          "settings": {
+            "faq_question": "How are woolever friend made",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Each Woolever Friend is custom-made exclusively for your pet using the needle felting technique with 100% natural, soft wool. Needle felting involves compressing wool fibers together by hand to create specific textures and shapes. The nose and mouth of each Woolever Friend are also handmade. Full-body Woolever Friends include a wireframe to support the stability and mobility of the paws and tail.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -315,6 +329,7 @@
       "block_order": [
         "text_Q8BTEW",
         "text_XPGaB9",
+        "text_zd9fta",
         "text_KJAd8d"
       ],
       "settings": {
