@@ -266,34 +266,6 @@
         "mobile_collapse": false
       }
     },
-    "recently-viewed": {
-      "type": "section-recently-viewed-products",
-      "settings": {
-        "number_of_items": 8,
-        "image_ratio": 100,
-        "show_in_circle": false,
-        "fill_images": false,
-        "text_alignment": "left",
-        "title": "Recently viewed products",
-        "title_font": "primary",
-        "title_size": "h3",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "content_alignment": "start",
-        "show_title": true,
-        "show_price": false,
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "section_faq_ePrAfi": {
       "type": "section-faq",
       "blocks": {
@@ -314,10 +286,10 @@
         "text_XPGaB9": {
           "type": "text",
           "settings": {
-            "faq_question": "Collapsible row",
+            "faq_question": "How do we make sure your are happy with your woolever friend?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Row content</p>",
+            "faq_answer": "<p>Throughout the production process, we’ll send you pictures and videos for review. If you have any concerns, we’ll discuss and make modifications to ensure your Woolever Friend closely resembles your pet. We pay attention to detail and strive to capture your pet’s unique qualities.<br/>Please note that while we do our best to accurately depict your pet’s likeness, slight variations in color may occur due to differences in electronic device displays. Additionally, the texture of wool material and limitations of the needle felting technique may prevent a 100% exact match.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -346,7 +318,7 @@
         "text_KJAd8d"
       ],
       "settings": {
-        "alignment": "left",
+        "alignment": "center",
         "compact": false,
         "title": "<strong>FAQ</strong>",
         "title_font": "primary",
@@ -372,7 +344,6 @@
     "fba97795-cd0a-43bb-b23d-6d65a7ee795f",
     "recommendations",
     "reviews",
-    "recently-viewed",
     "section_faq_ePrAfi"
   ]
 }
