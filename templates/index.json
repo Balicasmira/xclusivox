@@ -335,7 +335,7 @@
         "title_RR7kxK": {
           "type": "title",
           "settings": {
-            "title": "Highest Quality !",
+            "title": "A Portrait as Unique asThey Were.",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
@@ -346,23 +346,7 @@
         "usp_ApQYQU": {
           "type": "usp",
           "settings": {
-            "usp": "Precious Metals Only.",
-            "font": "primary",
-            "font_size": "16px"
-          }
-        },
-        "usp_mGHLeX": {
-          "type": "usp",
-          "settings": {
-            "usp": "SI Clarity Only.",
-            "font": "primary",
-            "font_size": "16px"
-          }
-        },
-        "usp_gRHa9R": {
-          "type": "usp",
-          "settings": {
-            "usp": "Checked by Hand.",
+            "usp": "They may be gone, but their paw prints on your heart remain. Our portraits help you keep their spirit close— today, tomorrow, and always.",
             "font": "primary",
             "font_size": "16px"
           }
@@ -370,9 +354,7 @@
       },
       "block_order": [
         "title_RR7kxK",
-        "usp_ApQYQU",
-        "usp_mGHLeX",
-        "usp_gRHa9R"
+        "usp_ApQYQU"
       ],
       "settings": {
         "overlay_opacity": 100,
