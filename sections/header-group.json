@@ -25,7 +25,7 @@
         "announcement-1"
       ],
       "settings": {
-        "color_palette": "dark",
+        "color_palette": "light_gradient",
         "height": "m",
         "font_size": "14px",
         "enable_slider_arrows": false,
