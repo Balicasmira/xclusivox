@@ -351,6 +351,94 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_icon_text_blocks_pJAVz6": {
+      "type": "section-icon-text-blocks",
+      "blocks": {
+        "text_jLKFHq": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "image": "shopify://shop_images/Capture_d_ecran_2025-03-12_a_03.10.12.png",
+            "image_height": 180,
+            "title": "Share Your Pet's Photo",
+            "subtitle": "",
+            "text": "<p>After placing your order, you'll receive an email within 24 hours requesting your pet's photo.</p>",
+            "link_text": "",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        },
+        "text_DGPinB": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "image_height": 55,
+            "title": "Column",
+            "subtitle": "",
+            "text": "<p>Pair text with an icon or image to focus on services, products, blog posts or collections.</p>",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        },
+        "text_bkenKV": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "image_height": 55,
+            "title": "Column",
+            "subtitle": "",
+            "text": "<p>Pair text with an icon or image to focus on services, products, blog posts or collections.</p>",
+            "link_text": "Button",
+            "link_url": "",
+            "button_color_palette": "accent",
+            "show_link": false
+          }
+        }
+      },
+      "block_order": [
+        "text_jLKFHq",
+        "text_DGPinB",
+        "text_bkenKV"
+      ],
+      "settings": {
+        "items_width": 4,
+        "text_alignment": "center",
+        "title": "How To Commission A Woolever Friend",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "blocks_text_alignment": "start",
+        "blocks_title_font": "primary",
+        "blocks_title_size": "h2",
+        "blocks_subtitle_font": "secondary",
+        "blocks_subtitle_size": "h2",
+        "blocks_title_color_palette": "black",
+        "blocks_title_weight": "700",
+        "blocks_subtitle_color_palette": "black",
+        "blocks_subtitle_weight": "400",
+        "blocks_font_size": "16px",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -359,6 +447,7 @@
     "fba97795-cd0a-43bb-b23d-6d65a7ee795f",
     "recommendations",
     "reviews",
-    "section_faq_ePrAfi"
+    "section_faq_ePrAfi",
+    "section_icon_text_blocks_pJAVz6"
   ]
 }
