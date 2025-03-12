@@ -255,50 +255,6 @@
         "fix_zindex": 0
       }
     },
-    "section_image_with_text_gqQQ9U": {
-      "type": "section-image-with-text",
-      "blocks": {
-        "title_MV96eD": {
-          "type": "title",
-          "settings": {
-            "title": "Photo Submission",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "text_qKaQCi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Once your order is confirmed, we’ll ask for photos and story of your pet. Don’t worry—we’ll work together to review the photos and decide on the best reference images for your portrait. Clear, well-lit photos work best!</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
-            "font": "secondary",
-            "font_weight": "600",
-            "font_size": "16px"
-          }
-        }
-      },
-      "block_order": [
-        "title_MV96eD",
-        "text_qKaQCi"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/wool.webp",
-        "overlay_opacity_img": 0,
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "layout": "image-left",
-        "width": "boxed",
-        "height": "l",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "section_rich_text_jmtkqh": {
       "type": "section-rich-text",
       "blocks": {
@@ -342,6 +298,50 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_image_with_text_gqQQ9U": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "title_MV96eD": {
+          "type": "title",
+          "settings": {
+            "title": "Photo Submission",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "text_qKaQCi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Once your order is confirmed, we’ll ask for photos and story of your pet. Don’t worry—we’ll work together to review the photos and decide on the best reference images for your portrait. Clear, well-lit photos work best!</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "font": "secondary",
+            "font_weight": "600",
+            "font_size": "16px"
+          }
+        }
+      },
+      "block_order": [
+        "title_MV96eD",
+        "text_qKaQCi"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/wool.webp",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -351,7 +351,7 @@
     "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
     "section_collage_caKUjg",
     "section_video_banner_QgYwxd",
-    "section_image_with_text_gqQQ9U",
-    "section_rich_text_jmtkqh"
+    "section_rich_text_jmtkqh",
+    "section_image_with_text_gqQQ9U"
   ]
 }
