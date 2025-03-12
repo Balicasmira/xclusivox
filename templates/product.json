@@ -391,21 +391,25 @@
     },
     "1741757124ae937c92": {
       "type": "apps",
+      "settings": {}
+    },
+    "1741757525052b1310": {
+      "type": "apps",
       "blocks": {
-        "kudosi_ali_reviews_widget_box_dMrTfP": {
-          "type": "shopify://apps/kudosi-ali-reviews/blocks/widget-box/bf2eea72-0400-4db1-8908-44b7418f9a88",
+        "loox_reviews_loox_dynamic_section_iqbb6M": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "product": "",
-            "name": "Review Box",
-            "vertical_alignment": "2",
-            "rating_color": "#1F1F1F",
-            "section_color": "#ffffff",
-            "primary_text_color": "#1F1F1F"
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
           }
         }
       },
       "block_order": [
-        "kudosi_ali_reviews_widget_box_dMrTfP"
+        "loox_reviews_loox_dynamic_section_iqbb6M"
       ],
       "settings": {}
     }
@@ -418,6 +422,7 @@
     "reviews",
     "section_faq_ePrAfi",
     "section_icon_text_blocks_pJAVz6",
-    "1741757124ae937c92"
+    "1741757124ae937c92",
+    "1741757525052b1310"
   ]
 }
