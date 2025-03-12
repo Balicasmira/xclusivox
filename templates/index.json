@@ -131,68 +131,6 @@
         "fix_zindex": 0
       }
     },
-    "b0948af1-0fb9-4b44-9183-42c54e10a3ae": {
-      "type": "section-press-coverage",
-      "blocks": {
-        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-0": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/BuzzFeed-logo.png",
-            "link": ""
-          }
-        },
-        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-1": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/insider.png",
-            "link": ""
-          }
-        },
-        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-2": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/prudent-reviews-logo_png.webp",
-            "link": ""
-          }
-        },
-        "654ac909-3f7e-4377-b745-a9bf92d8ebdf": {
-          "type": "logo",
-          "settings": {
-            "image": "shopify://shop_images/forbes_small_logo_png.webp",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-0",
-        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-1",
-        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-2",
-        "654ac909-3f7e-4377-b745-a9bf92d8ebdf"
-      ],
-      "settings": {
-        "number_of_items": 4,
-        "text_alignment": "center",
-        "title": "Featured in",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": true,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "Button",
-        "link_url": "",
-        "button_color_palette": "accent",
-        "show_link": true,
-        "spacing_desktop": 70,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
     "section_collage_caKUjg": {
       "type": "section-collage",
       "settings": {
@@ -342,16 +280,110 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "b0948af1-0fb9-4b44-9183-42c54e10a3ae": {
+      "type": "section-press-coverage",
+      "blocks": {
+        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-0": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/BuzzFeed-logo.png",
+            "link": ""
+          }
+        },
+        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-1": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/insider.png",
+            "link": ""
+          }
+        },
+        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-2": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/prudent-reviews-logo_png.webp",
+            "link": ""
+          }
+        },
+        "654ac909-3f7e-4377-b745-a9bf92d8ebdf": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify://shop_images/forbes_small_logo_png.webp",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-0",
+        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-1",
+        "template--19409751638328__b0948af1-0fb9-4b44-9183-42c54e10a3ae-16860372982fd9c05e-2",
+        "654ac909-3f7e-4377-b745-a9bf92d8ebdf"
+      ],
+      "settings": {
+        "number_of_items": 4,
+        "text_alignment": "center",
+        "title": "Featured in",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": true,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "link_text": "Button",
+        "link_url": "",
+        "button_color_palette": "accent",
+        "show_link": true,
+        "spacing_desktop": 70,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "section_newsletter_Mdqftg": {
+      "type": "section-newsletter",
+      "settings": {
+        "overlay_opacity_img": 0,
+        "color_palette": "dark_gradient",
+        "overlay_opacity": 100,
+        "width": "boxed",
+        "title": "Subscribe to our emails",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>Never miss any news and be the first to know about sale and offers</p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Subscribe",
+        "button_color_palette": "accent",
+        "enable_newsletter_terms_checkbox": false,
+        "newsletter_terms_text": "",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53",
     "31c22d2e-0688-4408-9b67-0113da271a8f",
-    "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
     "section_collage_caKUjg",
     "section_video_banner_QgYwxd",
     "section_rich_text_jmtkqh",
-    "section_image_with_text_gqQQ9U"
+    "section_image_with_text_gqQQ9U",
+    "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
+    "section_newsletter_Mdqftg"
   ]
 }
