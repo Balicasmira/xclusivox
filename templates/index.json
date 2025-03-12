@@ -246,7 +246,7 @@
       "settings": {
         "number_of_items": 6,
         "text_alignment": "center",
-        "title": "Seen in",
+        "title": "Featured in",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": true,
