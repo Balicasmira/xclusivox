@@ -23,7 +23,7 @@
         "template--19512397103416__bab7c0b3-407d-4ba6-885e-097aa67a5d53-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/1I3A3333_1_9bde4657-c4db-4da6-a8af-1768cc1fcf88.jpg",
+            "image": "shopify://shop_images/IMG_3753.jpg",
             "layout": "background",
             "image_width": 60,
             "overlay_opacity": 0,
@@ -365,6 +365,7 @@
         "enable_custom_height": false,
         "custom_height": 300,
         "text_position": "text-start",
+        "video_url": "",
         "video_alt_text": "",
         "video": "shopify://files/videos/Snapinst.app_video_AQNQUrHhCO4uU9zio8UbrE_WeXgXL1GttS24jJMd5LuUSn6vqxwZWjN9FewEJF9eeHVgb0YGhAgv0IEpYVFcQq4BN0S2G49X1fW7IiE.mp4",
         "spacing_desktop": 260,
