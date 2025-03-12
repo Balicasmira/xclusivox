@@ -293,6 +293,77 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_faq_ePrAfi": {
+      "type": "section-faq",
+      "blocks": {
+        "text_Q8BTEW": {
+          "type": "text",
+          "settings": {
+            "faq_question": "How are woolever friend made",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Each Woolever Friend is custom-made exclusively for your pet using the needle felting technique with 100% natural, soft wool. Needle felting involves compressing wool fibers together by hand to create specific textures and shapes. The nose and mouth of each Woolever Friend are also handmade. Full-body Woolever Friends include a wireframe to support the stability and mobility of the paws and tail.</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "text_XPGaB9": {
+          "type": "text",
+          "settings": {
+            "faq_question": "Collapsible row",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Row content</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "text_KJAd8d": {
+          "type": "text",
+          "settings": {
+            "faq_question": "Collapsible row",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Row content</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "text_Q8BTEW",
+        "text_XPGaB9",
+        "text_KJAd8d"
+      ],
+      "settings": {
+        "alignment": "left",
+        "compact": false,
+        "title": "<strong>FAQ</strong>",
+        "title_font": "primary",
+        "title_size": "h1",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "800",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -301,6 +372,7 @@
     "fba97795-cd0a-43bb-b23d-6d65a7ee795f",
     "recommendations",
     "reviews",
-    "recently-viewed"
+    "recently-viewed",
+    "section_faq_ePrAfi"
   ]
 }
