@@ -114,37 +114,6 @@
           "type": "shipping_timer",
           "settings": {}
         },
-        "abc376b2-44db-42ca-81f6-01e8a7001068": {
-          "type": "true_size",
-          "settings": {
-            "title": "Size",
-            "text": "",
-            "option_1": "Runs small",
-            "option_2": "True to size",
-            "option_3": "Runs large",
-            "true_size_value": "Runs small"
-          }
-        },
-        "3e5ad7a2-fdd9-4418-9e2e-face0a79c68e": {
-          "type": "benefit_score",
-          "settings": {
-            "title": "Benefits",
-            "title_text": "",
-            "benefit_title": "Cool",
-            "benefit_text": "<p>Give customers more information about this benefit.</p>",
-            "benefit_value": "5"
-          }
-        },
-        "3d35f2ba-784b-4881-9aca-efdd1657a29b": {
-          "type": "benefit_score",
-          "settings": {
-            "title": "",
-            "title_text": "",
-            "benefit_title": "Comfort",
-            "benefit_text": "",
-            "benefit_value": "5"
-          }
-        },
         "c300d32f-398c-41a9-b22b-d5c9f40ed345": {
           "type": "spacer",
           "settings": {
@@ -164,9 +133,6 @@
         "inventory",
         "buy_button",
         "ee5e9f1c-a80a-4244-950f-03806a509775",
-        "abc376b2-44db-42ca-81f6-01e8a7001068",
-        "3e5ad7a2-fdd9-4418-9e2e-face0a79c68e",
-        "3d35f2ba-784b-4881-9aca-efdd1657a29b",
         "c300d32f-398c-41a9-b22b-d5c9f40ed345"
       ],
       "settings": {
