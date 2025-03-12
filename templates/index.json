@@ -74,46 +74,39 @@
         "fix_zindex": 0
       }
     },
-    "section_video_banner_QgYwxd": {
-      "type": "section-video-banner",
-      "blocks": {
-        "title_RR7kxK": {
-          "type": "title",
-          "settings": {
-            "title": "A Portrait as Unique asThey Were.",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700"
-          }
-        },
-        "usp_ApQYQU": {
-          "type": "usp",
-          "settings": {
-            "usp": "They may be gone, but their paw prints on your heart remain. Our portraits help you keep their spirit close— today, tomorrow, and always.",
-            "font": "primary",
-            "font_size": "16px"
-          }
-        }
-      },
-      "block_order": [
-        "title_RR7kxK",
-        "usp_ApQYQU"
-      ],
+    "section_featured_products_tjHdjV": {
+      "type": "section-featured-products",
       "settings": {
-        "overlay_opacity": 80,
-        "color_palette": "white",
-        "layout": "image-left",
-        "width": "wide",
-        "height": "xl",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-start",
-        "video_url": "",
-        "video_alt_text": "",
-        "video": "shopify://files/videos/Snapinst.app_video_AQNQUrHhCO4uU9zio8UbrE_WeXgXL1GttS24jJMd5LuUSn6vqxwZWjN9FewEJF9eeHVgb0YGhAgv0IEpYVFcQq4BN0S2G49X1fW7IiE.mp4",
-        "spacing_desktop": 260,
+        "products": [
+          "framed-pet-portrait-dog",
+          "full-body-figurine",
+          "mini-full-body-figurine-7-10-cm",
+          "wool-painted-pet-portrait-head-with-body"
+        ],
+        "layout": "slider",
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "<strong>Your Pet’s Legacy Deserves a Spot in Our Calendar.</strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "/",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "mobile_layout": "slider",
+        "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
@@ -202,6 +195,50 @@
         "custom_height": 300,
         "text_position": "text-start",
         "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
+    },
+    "section_video_banner_QgYwxd": {
+      "type": "section-video-banner",
+      "blocks": {
+        "title_RR7kxK": {
+          "type": "title",
+          "settings": {
+            "title": "A Portrait as Unique asThey Were.",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "usp_ApQYQU": {
+          "type": "usp",
+          "settings": {
+            "usp": "They may be gone, but their paw prints on your heart remain. Our portraits help you keep their spirit close— today, tomorrow, and always.",
+            "font": "primary",
+            "font_size": "16px"
+          }
+        }
+      },
+      "block_order": [
+        "title_RR7kxK",
+        "usp_ApQYQU"
+      ],
+      "settings": {
+        "overlay_opacity": 80,
+        "color_palette": "white",
+        "layout": "image-left",
+        "width": "wide",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 250,
+        "text_position": "text-center",
+        "video_url": "",
+        "video_alt_text": "",
+        "video": "shopify://files/videos/Snapinst.app_video_AQNQUrHhCO4uU9zio8UbrE_WeXgXL1GttS24jJMd5LuUSn6vqxwZWjN9FewEJF9eeHVgb0YGhAgv0IEpYVFcQq4BN0S2G49X1fW7IiE.mp4",
+        "spacing_desktop": 260,
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
@@ -298,130 +335,16 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "section_image_hotspots_XViFbp": {
-      "type": "section-image-hotspots",
-      "blocks": {
-        "hotspot_RiF6eV": {
-          "type": "hotspot",
-          "settings": {
-            "product": "",
-            "text_position": "text-start",
-            "title": "Image hotspot",
-            "title_font": "primary",
-            "text": "<p>Highlight a new collection and share details about products related to this image</p>",
-            "position_left": 70,
-            "position_top": 20,
-            "position_left_mobile": 70,
-            "position_top_mobile": 20
-          }
-        },
-        "hotspot_GQgqde": {
-          "type": "hotspot",
-          "settings": {
-            "product": "",
-            "text_position": "text-start",
-            "title": "Image hotspot",
-            "title_font": "primary",
-            "text": "<p>Highlight a new collection and share details about products related to this image</p>",
-            "position_left": 30,
-            "position_top": 50,
-            "position_left_mobile": 30,
-            "position_top_mobile": 50
-          }
-        }
-      },
-      "block_order": [
-        "hotspot_RiF6eV",
-        "hotspot_GQgqde"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/IMG_0231-scaled.webp",
-        "overlay_opacity_img": 0,
-        "color_palette": "black",
-        "overlay_opacity": 100,
-        "hotspot_height": 33,
-        "hotspot_color_palette": "white",
-        "hotspot_hover_color_palette": "black",
-        "layout": "right",
-        "height": "m",
-        "width": "wide",
-        "enable_custom_height": false,
-        "custom_height": 300,
-        "text_position": "text-center",
-        "title": "Image hotspot banner",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>Highlight a new collection and share details about products related to this image</p>",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "Button",
-        "link_url": "shopify://collections/all",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "image_mobile": "shopify://shop_images/IMG_0231-scaled.webp",
-        "height_mobile": "m",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "section_featured_products_tjHdjV": {
-      "type": "section-featured-products",
-      "settings": {
-        "products": [
-          "framed-pet-portrait-dog",
-          "full-body-figurine",
-          "mini-full-body-figurine-7-10-cm",
-          "wool-painted-pet-portrait-head-with-body"
-        ],
-        "layout": "slider",
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "<strong>Your Pet’s Legacy Deserves a Spot in Our Calendar.</strong>",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "Button",
-        "link_url": "/",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "mobile_layout": "slider",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
     "86d43546-c3ee-4763-8d9e-efbf3b62d046",
     "bab7c0b3-407d-4ba6-885e-097aa67a5d53",
-    "section_video_banner_QgYwxd",
+    "section_featured_products_tjHdjV",
     "section_rich_text_jmtkqh",
     "section_image_with_text_gqQQ9U",
+    "section_video_banner_QgYwxd",
     "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
-    "section_newsletter_Mdqftg",
-    "section_image_hotspots_XViFbp",
-    "section_featured_products_tjHdjV"
+    "section_newsletter_Mdqftg"
   ]
 }
