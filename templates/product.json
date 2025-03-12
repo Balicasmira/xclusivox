@@ -47,18 +47,18 @@
             "mobile_title_size": "h3"
           }
         },
-        "f8ac590a-608a-4ed2-8b0a-b0770e6c4733": {
-          "type": "spacer",
-          "settings": {
-            "height": -10,
-            "height_mobile": 20
-          }
-        },
         "9d349e4c-e4c2-42bc-bc37-e0ea2e07be14": {
           "type": "spacer",
           "settings": {
             "height": 20,
             "height_mobile": -30
+          }
+        },
+        "c300d32f-398c-41a9-b22b-d5c9f40ed345": {
+          "type": "spacer",
+          "settings": {
+            "height": 20,
+            "height_mobile": 20
           }
         },
         "price": {
@@ -122,27 +122,19 @@
         "ee5e9f1c-a80a-4244-950f-03806a509775": {
           "type": "shipping_timer",
           "settings": {}
-        },
-        "c300d32f-398c-41a9-b22b-d5c9f40ed345": {
-          "type": "spacer",
-          "settings": {
-            "height": 20,
-            "height_mobile": 20
-          }
         }
       },
       "block_order": [
         "c7259cb9-7235-4028-b6df-3a68077fed80",
-        "f8ac590a-608a-4ed2-8b0a-b0770e6c4733",
         "9d349e4c-e4c2-42bc-bc37-e0ea2e07be14",
+        "c300d32f-398c-41a9-b22b-d5c9f40ed345",
         "price",
         "variant_selection",
         "pickup",
         "90724a70-740a-4cc9-984c-764e1d76a5bd",
         "inventory",
         "buy_button",
-        "ee5e9f1c-a80a-4244-950f-03806a509775",
-        "c300d32f-398c-41a9-b22b-d5c9f40ed345"
+        "ee5e9f1c-a80a-4244-950f-03806a509775"
       ],
       "settings": {
         "media_layout": "collage",
