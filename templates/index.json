@@ -114,80 +114,6 @@
     },
     "31c22d2e-0688-4408-9b67-0113da271a8f": {
       "type": "section-banner-columns",
-      "blocks": {
-        "9b432ecd-a8c7-4fa6-8610-7e0393230b4a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Aurate-996_2x3_1180520c-0d2e-4892-9347-17ca95e99975.jpg",
-            "overlay_opacity": 0,
-            "color_palette": "black",
-            "text_position": "text-center",
-            "title": "",
-            "title_font": "primary",
-            "title_size": "h1",
-            "enable_custom_text_styling": true,
-            "title_color_palette": "white",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "",
-            "link_url": "",
-            "button_color_palette": "accent",
-            "show_link": false,
-            "show_look": true,
-            "product_list": [],
-            "look_btn_color_palette": "dark",
-            "look_position": "end",
-            "show_look_label": true,
-            "look_label_text": ""
-          }
-        },
-        "e7a02553-e21b-458b-aac1-d8a698d733f8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/AurateQ2-23.jpg",
-            "overlay_opacity": 0,
-            "color_palette": "black",
-            "text_position": "text-center",
-            "title": "",
-            "title_font": "primary",
-            "title_size": "h1",
-            "enable_custom_text_styling": true,
-            "title_color_palette": "light",
-            "title_weight": "800",
-            "subtitle": "",
-            "subtitle_font": "primary",
-            "subtitle_size": "h1",
-            "enable_custom_subtext_styling": true,
-            "subtitle_color_palette": "dark_gradient",
-            "subtitle_weight": "600",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "button_color_palette": "accent",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [],
-            "look_btn_color_palette": "accent",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        }
-      },
-      "block_order": [
-        "9b432ecd-a8c7-4fa6-8610-7e0393230b4a",
-        "e7a02553-e21b-458b-aac1-d8a698d733f8"
-      ],
       "settings": {
         "items_width": 3,
         "width": "boxed",
@@ -269,45 +195,6 @@
     },
     "section_collage_caKUjg": {
       "type": "section-collage",
-      "blocks": {
-        "image_zPj3M8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/For_Wins_Big_And_Small_1920x_3eb78aee-74f7-46bb-ab91-6b752db60d3c.webp",
-            "overlay_opacity": 0,
-            "color_palette": "white",
-            "text_position": "text-center",
-            "title": "Amazing, beautifuldainty little things !",
-            "title_font": "primary",
-            "title_size": "h2",
-            "enable_custom_text_styling": false,
-            "title_color_palette": "black",
-            "title_weight": "700",
-            "subtitle": "",
-            "subtitle_font": "secondary",
-            "subtitle_size": "h2",
-            "enable_custom_subtext_styling": false,
-            "subtitle_color_palette": "black",
-            "subtitle_weight": "400",
-            "text": "",
-            "enable_custom_font_styling": false,
-            "font_size": "16px",
-            "link_text": "Button",
-            "link_url": "",
-            "button_color_palette": "accent",
-            "show_link": false,
-            "show_look": false,
-            "product_list": [],
-            "look_btn_color_palette": "buy_button",
-            "look_position": "end",
-            "show_look_label": false,
-            "look_label_text": "Label"
-          }
-        }
-      },
-      "block_order": [
-        "image_zPj3M8"
-      ],
       "settings": {
         "mirrored": false,
         "width": "boxed",
@@ -319,15 +206,6 @@
         "image_move": false,
         "layout_mobile": "rows",
         "mobile_height": "size-s",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
-    },
-    "section_custom_html_qkeQdq": {
-      "type": "section-custom-html",
-      "settings": {
-        "custom_html": "<section class=\"solid-gold-jewelry\">\n  <div class=\"container\">\n    <h1>Solid Gold Jewelry</h1>\n    \n    <div class=\"ethical-sourcing\">\n      <h2>Ethical Sourcing</h2>\n      <div class=\"sustainability-run\">\n        <ul>\n          <li>Fairly Priced</li>\n          <li>For Women By Women</li>\n          <li>Designed in NYC</li>\n        </ul>\n      </div>\n    </div>\n  </div>\n</section>\n\n<style>\n  .solid-gold-jewelry {\n    text-align: center;\n    padding: 50px 20px;\n    background-color: #f9f9f9;\n    color: #333;\n    font-family: Arial, sans-serif;\n  }\n\n  .solid-gold-jewelry h1 {\n    font-size: 2.5em;\n    margin-bottom: 20px;\n    color: #d4af37; /* Gold color */\n  }\n\n  .ethical-sourcing h2 {\n    font-size: 2em;\n    margin-bottom: 15px;\n    color: #333;\n  }\n\n  .sustainability-run ul {\n    list-style-type: none;\n    padding: 0;\n  }\n\n  .sustainability-run ul li {\n    font-size: 1.2em;\n    margin: 10px 0;\n    color: #555;\n  }\n\n  .container {\n    max-width: 1200px;\n    margin: 0 auto;\n  }\n</style>",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -361,7 +239,7 @@
         "usp_ApQYQU"
       ],
       "settings": {
-        "overlay_opacity": 100,
+        "overlay_opacity": 80,
         "color_palette": "white",
         "layout": "image-left",
         "width": "wide",
@@ -377,42 +255,45 @@
         "fix_zindex": 0
       }
     },
-    "section_collection_list_GLLzim": {
-      "type": "section-collection-list",
+    "section_image_with_text_gqQQ9U": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "title_MV96eD": {
+          "type": "title",
+          "settings": {
+            "title": "Photo Submission",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "text_qKaQCi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Once your order is confirmed, we’ll ask for photos and story of your pet. Don’t worry—we’ll work together to review the photos and decide on the best reference images for your portrait. Clear, well-lit photos work best!</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "font": "secondary",
+            "font_weight": "600",
+            "font_size": "16px"
+          }
+        }
+      },
+      "block_order": [
+        "title_MV96eD",
+        "text_qKaQCi"
+      ],
       "settings": {
-        "collections": [
-          "earrings",
-          "charms",
-          "necklaces",
-          "bracelets",
-          "rings"
-        ],
-        "custom_image_ratio": 100,
-        "show_in_circle": true,
-        "fill_images": false,
-        "layout": "slider",
-        "number_of_items": 5,
-        "text_alignment": "center",
-        "title": "<strong>Shop by Category !</strong>",
-        "title_font": "primary",
-        "title_size": "h3",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "link_text": "",
-        "link_url": "shopify://collections",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "collection_title_position": "center",
-        "show_collection_titles": true,
-        "collection_title_size": "p",
-        "mobile_layout": "slider",
+        "image": "shopify://shop_images/wool.webp",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "boxed",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
@@ -425,8 +306,7 @@
     "31c22d2e-0688-4408-9b67-0113da271a8f",
     "b0948af1-0fb9-4b44-9183-42c54e10a3ae",
     "section_collage_caKUjg",
-    "section_custom_html_qkeQdq",
     "section_video_banner_QgYwxd",
-    "section_collection_list_GLLzim"
+    "section_image_with_text_gqQQ9U"
   ]
 }
