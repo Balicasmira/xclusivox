@@ -17,7 +17,7 @@
         "announcement-1": {
           "type": "text",
           "settings": {
-            "text": "Shout out your big announcement here!"
+            "text": "<strong>🚨 LIMITED-TIME OFFER! 🚨  €200  OFF!</strong>"
           }
         }
       },
@@ -25,7 +25,7 @@
         "announcement-1"
       ],
       "settings": {
-        "color_palette": "light_gradient",
+        "color_palette": "black",
         "height": "m",
         "font_size": "14px",
         "enable_slider_arrows": false,
