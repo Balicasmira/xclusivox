@@ -128,10 +128,6 @@
           "settings": {
             "custom_html": "<p>\n  <img src=\"https://i.ibb.co/Qjb5yCGy/free-return-within-60-days-1.png\" alt=\"\" width=\"1500\" height=\"758\">\n</p>"
           }
-        },
-        "ee5e9f1c-a80a-4244-950f-03806a509775": {
-          "type": "shipping_timer",
-          "settings": {}
         }
       },
       "block_order": [
@@ -146,8 +142,7 @@
         "90724a70-740a-4cc9-984c-764e1d76a5bd",
         "inventory",
         "buy_button",
-        "custom_html_WNLTRL",
-        "ee5e9f1c-a80a-4244-950f-03806a509775"
+        "custom_html_WNLTRL"
       ],
       "settings": {
         "media_layout": "collage",
