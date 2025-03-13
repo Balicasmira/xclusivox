@@ -166,7 +166,7 @@
         "cons": "",
         "specs_title_size": "h3",
         "specifications": "",
-        "product_description_mobile_collapse": true,
+        "product_description_mobile_collapse": false,
         "mobile_tabs_title_size": "h5",
         "multiply_bg_mobile": true
       }
