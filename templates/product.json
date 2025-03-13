@@ -395,6 +395,48 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_countdown_Rw7Je8": {
+      "type": "section-countdown",
+      "settings": {
+        "overlay_opacity_img": 0,
+        "height": "xs",
+        "width": "boxed",
+        "countdown_bg_color": "#EFB34C",
+        "countdown_text_color": "#ffffff",
+        "color_palette": "dark",
+        "overlay_opacity": 100,
+        "text_position": "start",
+        "title": "<strong>🚨 LIMITED-TIME OFFER! 🚨  €200  OFF!</strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "<strong>For The first 30 customers </strong>",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>⏰<strong>Hurry only 👇 👇  left to claim your discount!</strong></p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "Button",
+        "link_url": "shopify://collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "countdown_font": "secondary",
+        "countdown_start": "",
+        "countdown_end": "December 31th, 11:59:59",
+        "hide_banner_after_countdown": false,
+        "ended_title": "Countdown banner",
+        "ended_subtitle": "",
+        "ended_text": "<p>Tell something about your offers, sale or discounts when the timer has ended.</p>",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -404,6 +446,7 @@
     "recommendations",
     "reviews",
     "section_faq_ePrAfi",
-    "section_icon_text_blocks_pJAVz6"
+    "section_icon_text_blocks_pJAVz6",
+    "section_countdown_Rw7Je8"
   ]
 }
