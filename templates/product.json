@@ -241,7 +241,7 @@
         "hide_banner_after_countdown": false,
         "ended_title": "Countdown banner",
         "ended_subtitle": "",
-        "ended_text": "<p>Tell something about your offers, sale or discounts when the timer has ended.</p>",
+        "ended_text": "",
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
