@@ -123,6 +123,12 @@
             "show_gift_card_recipient": false
           }
         },
+        "custom_html_WNLTRL": {
+          "type": "custom_html",
+          "settings": {
+            "custom_html": "<p>\n  <img src=\"https://i.ibb.co/kgtQd0b7/free-return-within-60-days.png\" alt=\"\" width=\"1500\" height=\"758\">\n</p>"
+          }
+        },
         "ee5e9f1c-a80a-4244-950f-03806a509775": {
           "type": "shipping_timer",
           "settings": {}
@@ -140,6 +146,7 @@
         "90724a70-740a-4cc9-984c-764e1d76a5bd",
         "inventory",
         "buy_button",
+        "custom_html_WNLTRL",
         "ee5e9f1c-a80a-4244-950f-03806a509775"
       ],
       "settings": {
@@ -174,29 +181,6 @@
       "settings": {
         "height": 30,
         "height_mobile": 20
-      }
-    },
-    "recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "recommended_products_qty": 6,
-        "number_of_items": 4,
-        "text_alignment": "start",
-        "title": "You may also like",
-        "title_font": "primary",
-        "title_size": "h3",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "black",
-        "title_weight": "700",
-        "subtitle": "",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h4",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "spacing_desktop": 50,
-        "spacing_mobile": 0,
-        "mobile_collapse": false
       }
     },
     "reviews": {
@@ -261,6 +245,29 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "fix_zindex": 0
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "recommended_products_qty": 6,
+        "number_of_items": 4,
+        "text_alignment": "start",
+        "title": "You may also like",
+        "title_font": "primary",
+        "title_size": "h3",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "black",
+        "title_weight": "700",
+        "subtitle": "",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h4",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "spacing_desktop": 50,
+        "spacing_mobile": 0,
+        "mobile_collapse": false
       }
     },
     "section_faq_ePrAfi": {
