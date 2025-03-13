@@ -118,7 +118,7 @@
             "show_dynamic_buybutton": false,
             "button_style_dynamic_buybutton": "inv",
             "preorder_label": "",
-            "preorder_label_color_palette": "accent",
+            "preorder_label_color_palette": "dark",
             "preorder_show_dynamic_buybutton": false,
             "show_gift_card_recipient": false
           }
