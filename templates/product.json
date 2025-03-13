@@ -126,7 +126,7 @@
         "custom_html_WNLTRL": {
           "type": "custom_html",
           "settings": {
-            "custom_html": "<p>\n  <img src=\"https://i.ibb.co/kgtQd0b7/free-return-within-60-days.png\" alt=\"\" width=\"1500\" height=\"758\">\n</p>"
+            "custom_html": "<p>\n  <img src=\"https://i.ibb.co/Qjb5yCGy/free-return-within-60-days-1.png\" alt=\"\" width=\"1500\" height=\"758\">\n</p>"
           }
         },
         "ee5e9f1c-a80a-4244-950f-03806a509775": {
@@ -152,9 +152,9 @@
       "settings": {
         "media_layout": "collage",
         "images_grid_spacing": 8,
-        "custom_product_image_ratio": 100,
+        "custom_product_image_ratio": 110,
         "fill_images": false,
-        "images_padding": 0,
+        "images_padding": 2,
         "images_vertical_position": 0,
         "show_thumbs_desktop": true,
         "show_thumbs_mobile": false,
