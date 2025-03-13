@@ -201,6 +201,7 @@
     },
     "reviews": {
       "type": "product-reviews",
+      "disabled": true,
       "settings": {
         "text_alignment": "start",
         "title": "Reviews",
@@ -218,6 +219,48 @@
         "spacing_desktop": 50,
         "spacing_mobile": 30,
         "mobile_collapse": false
+      }
+    },
+    "section_countdown_Rw7Je8": {
+      "type": "section-countdown",
+      "settings": {
+        "overlay_opacity_img": 0,
+        "height": "xs",
+        "width": "boxed",
+        "countdown_bg_color": "#64cd82",
+        "countdown_text_color": "#ffffff",
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "text_position": "start",
+        "title": "<strong>🚨 LIMITED-TIME OFFER! 🚨  €200  OFF!</strong>",
+        "title_font": "primary",
+        "title_size": "h2",
+        "enable_custom_text_styling": false,
+        "title_color_palette": "light",
+        "title_weight": "700",
+        "subtitle": "<strong>For The first 30 customers </strong>",
+        "subtitle_font": "secondary",
+        "subtitle_size": "h2",
+        "enable_custom_subtext_styling": false,
+        "subtitle_color_palette": "black",
+        "subtitle_weight": "400",
+        "text": "<p>⏰<strong>Hurry only 👇 👇  left to claim your discount!</strong></p>",
+        "enable_custom_font_styling": false,
+        "font_size": "16px",
+        "link_text": "",
+        "link_url": "shopify://collections",
+        "button_color_palette": "accent",
+        "show_link": false,
+        "countdown_font": "secondary",
+        "countdown_start": "",
+        "countdown_end": "April 2, 2025.",
+        "hide_banner_after_countdown": false,
+        "ended_title": "Countdown banner",
+        "ended_subtitle": "",
+        "ended_text": "<p>Tell something about your offers, sale or discounts when the timer has ended.</p>",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
       }
     },
     "section_faq_ePrAfi": {
@@ -395,58 +438,16 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
-    },
-    "section_countdown_Rw7Je8": {
-      "type": "section-countdown",
-      "settings": {
-        "overlay_opacity_img": 0,
-        "height": "xs",
-        "width": "boxed",
-        "countdown_bg_color": "#64cd82",
-        "countdown_text_color": "#ffffff",
-        "color_palette": "white",
-        "overlay_opacity": 100,
-        "text_position": "start",
-        "title": "<strong>🚨 LIMITED-TIME OFFER! 🚨  €200  OFF!</strong>",
-        "title_font": "primary",
-        "title_size": "h2",
-        "enable_custom_text_styling": false,
-        "title_color_palette": "light",
-        "title_weight": "700",
-        "subtitle": "<strong>For The first 30 customers </strong>",
-        "subtitle_font": "secondary",
-        "subtitle_size": "h2",
-        "enable_custom_subtext_styling": false,
-        "subtitle_color_palette": "black",
-        "subtitle_weight": "400",
-        "text": "<p>⏰<strong>Hurry only 👇 👇  left to claim your discount!</strong></p>",
-        "enable_custom_font_styling": false,
-        "font_size": "16px",
-        "link_text": "",
-        "link_url": "shopify://collections",
-        "button_color_palette": "accent",
-        "show_link": false,
-        "countdown_font": "secondary",
-        "countdown_start": "",
-        "countdown_end": "April 2, 2025.",
-        "hide_banner_after_countdown": false,
-        "ended_title": "Countdown banner",
-        "ended_subtitle": "",
-        "ended_text": "<p>Tell something about your offers, sale or discounts when the timer has ended.</p>",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
-      }
     }
   },
   "order": [
     "breadcrumbs",
     "main-product",
     "fba97795-cd0a-43bb-b23d-6d65a7ee795f",
-    "recommendations",
     "reviews",
+    "section_countdown_Rw7Je8",
+    "recommendations",
     "section_faq_ePrAfi",
-    "section_icon_text_blocks_pJAVz6",
-    "section_countdown_Rw7Je8"
+    "section_icon_text_blocks_pJAVz6"
   ]
 }
