@@ -413,13 +413,28 @@
             "html": "",
             "show_contact_form": false
           }
+        },
+        "text_rFVyGN": {
+          "type": "text",
+          "settings": {
+            "faq_question": "Can I track my shipment?",
+            "icon": "none",
+            "header_image_width": 25,
+            "faq_answer": "<p>Yes, once your order is shipped, you will receive a tracking link via email to monitor its progress.</p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
         }
       },
       "block_order": [
         "text_Q8BTEW",
         "text_XPGaB9",
         "text_zd9fta",
-        "text_KJAd8d"
+        "text_KJAd8d",
+        "text_rFVyGN"
       ],
       "settings": {
         "alignment": "center",
