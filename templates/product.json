@@ -455,6 +455,60 @@
         "spacing_mobile": 30,
         "fix_zindex": 0
       }
+    },
+    "section_image_with_text_UYVqq8": {
+      "type": "section-image-with-text",
+      "blocks": {
+        "title_TJBkhH": {
+          "type": "title",
+          "settings": {
+            "title": "<strong>At Wooleverfriend, we believe in making a difference. That's why 20% of our profits go directly to animal welfare organizations dedicated to rescuing, protecting, and caring for animals in need.    </strong>",
+            "title_font": "primary",
+            "title_size": "h2",
+            "enable_custom_text_styling": false,
+            "title_color_palette": "black",
+            "title_weight": "700"
+          }
+        },
+        "text_QNwBei": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every purchase you make helps support these incredible causes. Together, we can create a better world for our furry friends.</p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        },
+        "text_rYwA4c": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Thank you for being part of our mission! 💛</strong></p>",
+            "font": "secondary",
+            "font_weight": "400",
+            "font_size": "16px"
+          }
+        }
+      },
+      "block_order": [
+        "title_TJBkhH",
+        "text_QNwBei",
+        "text_rYwA4c"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Snapinst.app_356250261_650964313726156_8125280876363158406_n_1080.jpg",
+        "overlay_opacity_img": 0,
+        "color_palette": "white",
+        "overlay_opacity": 100,
+        "layout": "image-left",
+        "width": "wide",
+        "height": "l",
+        "enable_custom_height": false,
+        "custom_height": 300,
+        "text_position": "text-start",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "fix_zindex": 0
+      }
     }
   },
   "order": [
@@ -465,6 +519,7 @@
     "section_icon_text_blocks_pJAVz6",
     "reviews",
     "recommendations",
-    "section_faq_ePrAfi"
+    "section_faq_ePrAfi",
+    "section_image_with_text_UYVqq8"
   ]
 }
