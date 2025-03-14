@@ -530,17 +530,17 @@
       ],
       "settings": {
         "color_palette": "white",
-        "overlay_opacity": 100,
+        "overlay_opacity": 15,
         "text_position": "text-start",
-        "content_width": 1280,
+        "content_width": 1120,
         "height": "xs",
         "enable_custom_height": false,
-        "custom_height": 300,
+        "custom_height": 250,
         "width": "wide",
         "height_mobile": "xs",
-        "spacing_desktop": 50,
-        "spacing_mobile": 30,
-        "fix_zindex": 0
+        "spacing_desktop": -160,
+        "spacing_mobile": -110,
+        "fix_zindex": 3
       }
     }
   },
@@ -553,7 +553,7 @@
     "reviews",
     "recommendations",
     "section_faq_ePrAfi",
-    "section_image_with_text_UYVqq8",
-    "section_rich_text_8Fzcar"
+    "section_rich_text_8Fzcar",
+    "section_image_with_text_UYVqq8"
   ]
 }
