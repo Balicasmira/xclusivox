@@ -364,7 +364,7 @@
             "faq_question": "Quel est le délai de livraison de ma commande ?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p><strong>Each Woolever Friend is handmade with care and attention. Thanks to our dedicated team of 5 artisans, we intentionally limit our orders to 15 per week to ensure the highest quality and meet our deadlines. Currently, the estimated processing time is 3 to 6 days, with an additional shipping time of 2 to 4 days depending on your location. We thank you for your understanding and support</strong></p>",
+            "faq_answer": "<p>Chaque Woolever Friend est fabriqué à la main avec soin et attention. Grâce à notre équipe dévouée de 5 artisans, nous limitons intentionnellement nos commandes à 15 par semaine afin de garantir la meilleure qualité et de respecter nos délais. Actuellement, le délai de traitement est estimé entre 3 et 6 jours, avec un délai d'expédition supplémentaire de 2 à 4 jours en fonction de votre localisation. Nous vous remercions de votre compréhension et de votre soutien</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -375,7 +375,7 @@
         "text_XPGaB9": {
           "type": "text",
           "settings": {
-            "faq_question": "How do we make sure your are happy with your woolever friend?",
+            "faq_question": "Comment pouvons-nous nous assurer que vous êtes satisfait de votre  woolever friend ?",
             "icon": "none",
             "header_image_width": 25,
             "faq_answer": "<p>Throughout the production process, we’ll send you pictures and videos for review. If you have any concerns, we’ll discuss and make modifications to ensure your Woolever Friend closely resembles your pet. We pay attention to detail and strive to capture your pet’s unique qualities.<br/>Please note that while we do our best to accurately depict your pet’s likeness, slight variations in color may occur due to differences in electronic device displays. Additionally, the texture of wool material and limitations of the needle felting technique may prevent a 100% exact match.</p>",
