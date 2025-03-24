@@ -172,7 +172,7 @@
         "text_qKaQCi": {
           "type": "text",
           "settings": {
-            "text": "<p>Once your order is confirmed, we’ll ask for photos and story of your pet. Don’t worry—we’ll work together to review the photos and decide on the best reference images for your portrait. Clear, well-lit photos work best!</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+            "text": "<p>Après confirmation de votre commande, nous vous solliciterons pour des <br/>photos et détails sur votre animal. Nous vous accompagnerons pour <br/>choisir les meilleures images. Conseil : optez pour des photos claires <br/>et bien éclairées.</p>",
             "font": "secondary",
             "font_weight": "600",
             "font_size": "16px"
