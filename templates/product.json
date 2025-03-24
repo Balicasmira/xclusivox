@@ -506,7 +506,7 @@
         "text_QNwBei": {
           "type": "text",
           "settings": {
-            "text": "<p>Chaque achat que vous effectuez contribue à soutenir ces causes incroyables. Ensemble, nous pouvons créer un monde meilleur pour nos amis à fourrure.</p>",
+            "text": "<p>Every purchase you make helps support these incredible causes. Together, we can create a better world for our furry friends.</p>",
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px"
@@ -515,7 +515,7 @@
         "text_rYwA4c": {
           "type": "text",
           "settings": {
-            "text": "<p>Merci de participer à notre mission ! 💛</p>",
+            "text": "<p><strong>Thank you for being part of our mission! 💛</strong></p>",
             "font": "secondary",
             "font_weight": "400",
             "font_size": "16px"
