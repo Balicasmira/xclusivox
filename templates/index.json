@@ -86,7 +86,7 @@
         "layout": "slider",
         "number_of_items": 4,
         "text_alignment": "start",
-        "title": "<strong>Your Pet’s Legacy Deserves a Spot in Our Calendar.</strong>",
+        "title": "<strong>L'héritage de votre animal de compagnie mérite une place dans notre calendrier.</strong>",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": false,
