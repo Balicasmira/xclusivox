@@ -403,10 +403,10 @@
         "text_KJAd8d": {
           "type": "text",
           "settings": {
-            "faq_question": "How can I have my pet's real fur added into the portrait?",
+            "faq_question": "Comment puis-je faire ajouter la vraie fourrure de mon animal dans le portrait ?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Upon request, we can incorporate your pet’s real fur, ash, whiskers, or teeth into the portrait. After placing your order, we’ll provide you with a mailing address for sending them.</p>",
+            "faq_answer": "<p>Sur demande, nous pouvons incorporer la vraie fourrure, les cendres, les moustaches ou les dents de votre animal dans le portrait. Après avoir passé votre commande, nous vous fournirons une adresse postale pour l'envoi.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
@@ -417,10 +417,10 @@
         "text_rFVyGN": {
           "type": "text",
           "settings": {
-            "faq_question": "Can I track my shipment?",
+            "faq_question": "Puis-je suivre ma commande ?",
             "icon": "none",
             "header_image_width": 25,
-            "faq_answer": "<p>Yes, once your order is shipped, you will receive a tracking link via email to monitor its progress.</p>",
+            "faq_answer": "<p>Oui, une fois votre commande expédiée, vous recevrez un lien de suivi par courrier électronique afin de suivre son évolution.</p>",
             "page": "",
             "image_width": 465,
             "liquid": "",
