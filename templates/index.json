@@ -284,7 +284,7 @@
       "settings": {
         "number_of_items": 4,
         "text_alignment": "center",
-        "title": "Featured in",
+        "title": "<strong>Mis en lumière dans !</strong>",
         "title_font": "primary",
         "title_size": "h2",
         "enable_custom_text_styling": true,
