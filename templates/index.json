@@ -161,7 +161,7 @@
         "title_MV96eD": {
           "type": "title",
           "settings": {
-            "title": "Photo Submission",
+            "title": "<strong>Soumission de photo</strong>",
             "title_font": "primary",
             "title_size": "h2",
             "enable_custom_text_styling": false,
