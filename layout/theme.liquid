@@ -52,7 +52,9 @@
 		{% render 'social-meta-tags' %}
 		{{ content_for_header }}
 		{{ settings.custom_script_for_head }}
-	</head>
+	
+{{ 'a2reviews-custom.css' | asset_url | stylesheet_tag }}
+</head>
 	<body class="template-{{ template.name | handle }}">
 		<div id="root">
 			{%- render 'accessible-nav' -%}
