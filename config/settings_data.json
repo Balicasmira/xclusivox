@@ -165,7 +165,7 @@
           "show_tax": false,
           "show_amount_selection": true,
           "hide_in_theme_editor": false,
-          "show_mobile": true
+          "show_mobile": false
         }
       }
     },
