@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "404": {
     "404": "404",
@@ -461,7 +470,7 @@
       "quantity": "Quantité",
       "title": "Fiche produit",
       "view_options": "Options d'affichage",
-      "add_to_cart": "Options d'affichage",
+      "add_to_cart": "Ajouter au panier",
       "unavailable": "Indisponible",
       "in_stock": "{{ amount }} en stock",
       "not_in_stock": "Rupture de stock",
