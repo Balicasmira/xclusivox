@@ -22,7 +22,7 @@
   </header>
 {%- endif -%}
 
-{%- capture 'socials' -%}
+{%- capture socials -%}
   {%- if settings.social_instagram -%}instagram|{{settings.social_instagram}}|{{ settings.social_instagram_name }}->{%- endif -%}
   {%- if settings.social_pinterest -%}pinterest|{{settings.social_pinterest}}|{{ settings.social_pinterest_name }}->{%- endif -%}
   {%- if settings.social_youtube -%}youtube|{{settings.social_youtube}}|{{ settings.social_youtube_name }}->{%- endif -%}
@@ -33,7 +33,7 @@
   {%- if settings.social_snapchat -%}snapchat|{{settings.social_snapchat}}|{{ settings.social_snapchat_name }}|snapchat-outline->{%- endif -%}
   {%- if settings.whatsapp and settings.whatsapp > 0 -%}whatsapp|{{ settings.whatsapp }}{%- endif -%}
 {%- endcapture -%}
-{%- capture 'socials_placeholder' -%}
+{%- capture socials_placeholder -%}
   instagram->pinterest->youtube->facebook|facebook-circle->twitter->tiktok->tumblr->snapchat|snapchat-outline->whatsapp
 {%- endcapture -%}
 
@@ -558,3 +558,16 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- capture 'socials' -%}"
+  to: "{%- capture socials -%}"
+  position: 1460..1483
+- from: "{%- capture 'socials_placeholder' -%}"
+  to: "{%- capture socials_placeholder -%}"
+  position: 2630..2665
+{% endcomment %}
